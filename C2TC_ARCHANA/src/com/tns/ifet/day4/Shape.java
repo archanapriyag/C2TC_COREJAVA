@@ -1,7 +1,7 @@
 package com.tns.ifet.day4;
 public abstract class Shape {
 	protected float area;
-    
+	
 	 abstract void calArea();
 	 
 	 void show()
