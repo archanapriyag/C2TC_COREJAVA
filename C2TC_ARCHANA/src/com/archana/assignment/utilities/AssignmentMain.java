@@ -3,7 +3,6 @@ import com.archana.assignment.employe.*;
 import com.archana.assignment.utilities.EmployeeUtilities;
 public class AssignmentMain {
 	public static void main(String[] args) {
-      
         Manager manager = new Manager();
         manager.setEmployeeId(101);
         manager.setName("Alice");

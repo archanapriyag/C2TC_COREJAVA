@@ -1,5 +1,4 @@
 package com.tns.ifet.day14.interthreadcommunication;
-
 public class Consumer extends Thread{
 	Q obj; 
 
